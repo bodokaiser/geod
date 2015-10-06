@@ -1,0 +1,11 @@
+{
+
+  "name": "geod",
+
+  "version": "0.0.0",
+
+  "author": "Bodo Kaiser <i@bodokaiser.io>",
+
+  "main": "lib/index.js"
+
+}

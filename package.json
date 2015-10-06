@@ -1,0 +1,21 @@
+{
+
+  "name": "geod",
+
+  "author": "Bodo Kaiser <i@bodokaiser.io>",
+
+  "license": "MIT",
+
+  "version": "0.0.0",
+
+  "description": "Implementation of geodesic distance transform algorithm.",
+
+  "main": "lib/index.js",
+
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  },
+
+  "repository": "git://github.com/bodokaiser/geod"
+
+}
